@@ -219,4 +219,9 @@ This explains the behaviour of the commands that we use in the exercise:
 
 1/ Use only the terminal, in the current directory, create a new file called `greetings.txt` with the file content `print("Hello World")` - use `ni` with parameter `Value`. Use `cat` to view the content of the file. Change the file name to `greetings.py`. Run `python greetings.py` and see the output. This should print `Hello World to the screen`. Delete the file `greetings.py`. 
 
-2/ 
+2/ Explain the parameters of the command `ls` used in the workshop example. View help of ls and answer the following questions:
+
+- What is the official name of the command `ls`.
+- What are the other aliases of `ls` ?
+- How do you view hidden items using `ls`?. 
+- How do you view items in a folder `newFolder`?
